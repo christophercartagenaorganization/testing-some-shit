@@ -1,7 +1,7 @@
 node {
 
   stage("testing this shit"){
-    sh "echo 'shit has been tested"
+    sh "echo 'shit has been tested'"
   }
 
 }
